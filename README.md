@@ -1,7 +1,7 @@
 # 👋 Welcome to my github ! <br />
 
 <p align="center">
-  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20Developer;Blockchain%20%26%20Web3%20Expert;AI%20%26%20LLM%20%26%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20Developer;Blockchain%20%26%20Web3%20Expert;AI%20%26%20LLM%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 🚀 **Senior Full-Stack & Blockchain & AI Developer** with 7+ years of experience building cutting-edge solutions across web, mobile, and decentralized applications.
@@ -9,6 +9,7 @@
 💡 **Core Expertise:**
 - **Blockchain Development:** Smart contracts, DeFi protocols, NFT platforms, and Web3 applications
 - **Full-Stack Engineering:** Scalable web applications, microservices, and cloud-native solutions
+- **AI Development:** Large language model integration, AI-powered SaaS, AI-agent RAG systems, embeddings, prompt engineering, and automation pipelines
 - **Security-First Approach:** Implementing robust security measures for both traditional and blockchain systems
 
 🌐 I specialize in creating innovative solutions that bridge traditional web technologies with the decentralized future. From enterprise-grade applications to revolutionary blockchain protocols, I deliver secure, scalable, and user-centric solutions for clients worldwide.
