@@ -58,6 +58,40 @@
       </td>
     </tr>
     <tr>
+            <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Express" />
+      <br>Nest.js
+    </td>
+              <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+          <br>Laravel
+        </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+      <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+  <br>MongoDB
+</td>
+      <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="Supabase" />
+  <br>Supabase
+</td>
+    </tr>
+    <tr>
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
             <br>Rust
@@ -65,6 +99,11 @@
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
           <br>Python
+        </td>
+              <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
+  <br>C++
+</td>
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="45" height="45" alt="C#" />
             <br>C#
@@ -80,10 +119,6 @@
         <td align="center" width="90">
           <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
           <br>Django
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-          <br>Laravel
         </td>
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
