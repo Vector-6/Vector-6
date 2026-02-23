@@ -1,7 +1,7 @@
 # 👋 Welcome to my github ! <br />
 
 <p align="center">
-  <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20Developer;Blockchain%20%26%20Web3%20Expert;AI%20%26%20LLM%20Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <img src="./image.jpg" alt="Fullstack & AI & Blockchain Developer" width="800" />
 </p>
 
 🚀 **Senior Full-Stack & Blockchain & AI Developer** with 11 years of experience building cutting-edge solutions across web, mobile, and decentralized applications.
@@ -123,6 +123,40 @@
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
           <br>WordPress
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
+          <br>PyTorch
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
+          <br>TensorFlow
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=opencv" width="45" height="45" alt="OpenCV" />
+          <br>OpenCV
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="Scikit-learn" />
+          <br>Scikit-learn
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=keras" width="45" height="45" alt="Keras" />
+          <br>Keras
+        </td>
+        <td align="center" width="90">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Hugging Face" />
+          <br>HuggingFace
+        </td>
+        <td align="center" width="90">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" />
+          <br>Jupyter
+        </td>
+        <td align="center" width="90">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
+          <br>Pandas
         </td>
     </tr>
 </table>
